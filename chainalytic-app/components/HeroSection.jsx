@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const HeroSection = () => {
   const handleGetStarted = () => {
-    window.open('http://localhost:3001/login', '_blank');
+    window.open('http://localhost:3002/login', '_blank');
   };
 
   return (
